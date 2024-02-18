@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="discover_your">Discover Your</string>
+    <string name="intro">you can browse movies and shows all at once by search for your favourite movie,
+    or you can check out recommended movies.</string>
+    <string name="join_now">Join Now</string>
+    <string name="favourite_show">Favourite Show</string>
+    <string name="blur_background">blurBackground</string>
+    <string name="log_in_to_continue">Log in to continue</string>
+    <string name="hi">Hi! 👋</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="password">Password</string>
+    <string name="forget_password"><u>Forget password?</u></string>
+    <string name="don_t_have_account_register"><u>Don\'t have account? Register</u></string>
+    <string name="log_in">Log in</string>
+    <string name="john_wick">John Wick</string>
+    <string name="categories">Categories</string>
+    <string name="favourites">Favourites</string>
+    <string name="explorer">Explorer</string>
+</resources>

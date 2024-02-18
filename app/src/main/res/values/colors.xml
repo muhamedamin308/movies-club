@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainColor">#080a10</color>
+    <color name="selectedMovie">#514EB6</color>
+    <color name="unselectedMovie">#142036</color>
+    <color name="secondaryMainColor">#862425</color>
+    <color name="secondaryFontColor">#7F868F</color>
+    <color name="movieDetailsUnselected">#1F2A3D</color>
+    <color name="movieDetailsSelected">#424A58</color>
+    <color name="transparent">#00000000</color>
+    <color name="imdb_rate">#E6B91E</color>
+</resources>
